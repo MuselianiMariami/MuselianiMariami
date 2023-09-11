@@ -4,9 +4,10 @@
 
 📚**Education**: Student at Digital Institute with a focus on front-end React development 
 
-🎯**Udemy courses**: "The Complete JavaScript Course 2023: From Zero to Expert" by Jonas Schmedtmann; <br/>
-  "Build Responsive Real-World Websites with HTML and CSS" by Jonas Schmedtmann; <br/>
-  "The Complete 2023 Web Development Bootcamp" by Dr. Angela Yu
+🎯**Udemy courses**: <br/>
+"The Complete JavaScript Course 2023: From Zero to Expert" by Jonas Schmedtmann; <br/>
+"Build Responsive Real-World Websites with HTML and CSS" by Jonas Schmedtmann; <br/>
+"The Complete 2023 Web Development Bootcamp" by Dr. Angela Yu
 
 🔨 **Skills**: Proficient in Git and GitHub for version control. Experienced in utilizing NPM packages and Firebase for efficient development processes and collaborative work.
 

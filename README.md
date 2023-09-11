@@ -1,6 +1,6 @@
 <h1 align="center">Hello World, I'm Mariam Museliani 👋</h1>
 
-### I'm front-end Web developer, devoted to crafting engaging user experiences by employing well-organized and effective code.
+### I'm front-end Web developer, devoted to creating exceptional user experiences by employing well-organized and effective code.
 
 📚**Education**: Student at Digital Institute with a focus on front-end React development 
 
@@ -8,8 +8,6 @@
 "The Complete JavaScript Course 2023: From Zero to Expert" by Jonas Schmedtmann; <br/>
 "Build Responsive Real-World Websites with HTML and CSS" by Jonas Schmedtmann; <br/>
 "The Complete 2023 Web Development Bootcamp" by Dr. Angela Yu
-
-🔨 **Skills**: Proficient in Git and GitHub for version control. Experienced in utilizing NPM packages and Firebase for efficient development processes and collaborative work.
 
 🔥 **Passion**: always excited to tackle new challenges, ensure the delivery of high-quality projects on time, and keep up-to-date with the latest industry trends.
 
@@ -37,8 +35,6 @@ If you're in search of an eager and passionate junior front-end developer, parti
 ![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-%23007ACC.svg?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
-
 ### 📧 Contact me:
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mariam-museliani-932024243/)
 [![Gmail](https://img.shields.io/badge/Gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marimuseliani010@gmail.com)

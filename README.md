@@ -1,6 +1,6 @@
 <h1 align="center">Hello World, I'm Mariam Museliani 👋</h1>
 
-### I'm front-end Web developer with a passion for creating exceptional user experiences. Here's a bit about me:
+### I'm front-end Web developer, devoted to crafting engaging user experiences by employing well-organized and effective code.
 
 📚**Education**: Student at Digital Institute with a focus on front-end React development 
 
@@ -11,11 +11,11 @@
 
 🔨 **Skills**: Proficient in Git and GitHub for version control. Experienced in utilizing NPM packages and Firebase for efficient development processes and collaborative work.
 
-🔥 **Passion**: Eager to take on new challenges, deliver high-quality projects within deadlines, and stay current with industry trends.
+🔥 **Passion**: always excited to tackle new challenges, ensure the delivery of high-quality projects on time, and keep up-to-date with the latest industry trends.
 
-🚀 **Goal**: To ensure exceptional user experiences in the projects I work on.
+🚀 **Goal**: To become FullStack MERN Developer.
 
-If you're looking for a dedicated and enthusiastic junior front-end developer with a strong focus on React and a talent for creating impressive user interfaces, I'd be thrilled to connect with you!
+If you're in search of an eager and passionate junior front-end developer, particularly skilled in React and adept at crafting captivating user interfaces, I'm excited to explore potential opportunities with you!
 
 ### 💻 Tech Stack:
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black) 
@@ -38,12 +38,7 @@ If you're looking for a dedicated and enthusiastic junior front-end developer wi
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-%23007ACC.svg?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
 
-
-
-
-
-
 ### 📧 Contact me:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/giorgi-tskhvedadze/)
-[![Gmail](https://img.shields.io/badge/Gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:giorgicxvedadze4@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mariam-museliani-932024243/)
+[![Gmail](https://img.shields.io/badge/Gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marimuseliani010@gmail.com)

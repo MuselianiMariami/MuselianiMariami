@@ -1,21 +1,49 @@
-- 👋 Hi, I’m @MuselianiMariami
-- 👀 I’m interested in coding.
-- 🌱 I’m currently learning Frontend React development
-- 📫 How to reach me: marimuseliani010@gmail.com
-- ✔️ Linkedin - https://www.linkedin.com/in/mariam-museliani-932024243/
-- 💻 Tech Stack:
-  <br/>
-  <a> <img src="https://camo.githubusercontent.com/73abb414541e9bd06c02e9fd230682111ff9f16c76a20db7499deb450c71a559/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6176615363726970742d2532334637444631452e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6a617661736372697074266c6f676f436f6c6f723d626c61636b"/> <a/>
-  <a> <img src="https://camo.githubusercontent.com/0798f3154dc1835afc2293d882b4ffd4655a1fab6c18c418f65b8e3c53bb7999/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f48544d4c352d2532334533344632362e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d68746d6c35266c6f676f436f6c6f723d7768697465"/> <a/>
-   <a> <img src="https://camo.githubusercontent.com/3e655a70b25de562651c173ce2d0d79c2bfa7ca35a354e72e4989e53f1e24b3b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f435353332d2532333135373242362e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d63737333266c6f676f436f6c6f723d7768697465"/> <a/>
-    <a> <img src="https://camo.githubusercontent.com/b4a5bfe19c6d8b22196922e5c90a58b9d156302950b6462ca5728fab80dcbed1/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f444f4d2d2532334637444631452e7376673f7374796c653d666f722d7468652d6261646765"/> <a/>
-     <a> <img src="https://camo.githubusercontent.com/04a703b78f2fe224cc6a70007e7e229c3029188f1381830ad94fab137501f8ce/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f534353532d2532334343363639392e7376673f7374796c653d666f722d7468652d6261646765"/> <a/>
-      <a> <img src="https://camo.githubusercontent.com/97eaa7130d242bb2d8f640e214f1d9b2cc5f1d1e839967bcca373eb250005a87/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f426f6f7473747261702d2532333536334437432e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d626f6f747374726170266c6f676f436f6c6f723d7768697465"/> <a/>
-       <a> <img src="https://camo.githubusercontent.com/ee2311b6cc0b7b9283c0c7cfc2736fb2da90393e0082065a9ed3798f6152f46f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f547970655363726970742d2532333331373843362e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d74797065736372697074266c6f676f436f6c6f723d7768697465"/> <a/>
-       <a> <img src="https://camo.githubusercontent.com/8e7588c3e56942ff393e505278677c5475134050d084646f52892da948c80991/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4769742d2532334630353033322e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d676974266c6f676f436f6c6f723d7768697465"/> <a/>
-       <a> <img src="https://camo.githubusercontent.com/373c44ef7faab5622e92d2f131438171ed762d121eb4f103ac4dc1ddee0a4e60/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f52656163742d2532333631444146422e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d7265616374266c6f676f436f6c6f723d7768697465"/> <a/>
-       <a> <img src="https://camo.githubusercontent.com/2637dc24b12eff90e7b4a0ff6f742363205bb6eb1359459194334daa0f1bda07/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6e706d2d2532334342333833372e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6e706d"/> <a/>
-       <a> <img src="https://camo.githubusercontent.com/212e530f11fa4db15ed781c8108c26edf59dcac108c30cf92056ed24d4f72067/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f56697375616c25323053747564696f253230436f64652d2532333030374143432e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d76697375616c25323073747564696f253230636f6465266c6f676f436f6c6f723d7768697465"/> <a/>
-       <a> <img src="https://camo.githubusercontent.com/40917e309e15411a74fd04919c599e12ff966ab20d33feac131a9d0e94cbc390/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4e6578742e6a732d2532333631444146422e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6e6578742e6a73266c6f676f436f6c6f723d7768697465"/> <a/>
- 
-       
+<h1 align="center">Hello World, I'm Mariam Museliani 👋</h1>
+
+### I'm front-end Web developer with a passion for creating exceptional user experiences. Here's a bit about me:
+
+📖 **Education**: Student at Digital Institute with a focus on front-end React development 
+![image](https://github.com/MuselianiMariami/MuselianiMariami/assets/137683336/1d019466-5233-4f2e-89af-033b217a788a)
+
+
+
+🔨 **Skills**: Proficient in Git and GitHub for version control. Experienced in utilizing NPM packages and Firebase for efficient development processes and collaborative work.
+
+🔥 **Passion**: Eager to take on new challenges, deliver high-quality projects within deadlines, and stay current with industry trends.
+
+🚀 **Goal**: To ensure exceptional user experiences in the projects I work on.
+
+If you're looking for a dedicated and enthusiastic junior front-end developer with a strong focus on React and a talent for creating impressive user interfaces, I'd be thrilled to connect with you!
+
+### 💻 Tech Stack:
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black) 
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![OOP](https://img.shields.io/badge/OOP-%23415F9D.svg?style=for-the-badge) 
+![Functional Programming](https://img.shields.io/badge/Functional%20Programming-%2351B7F0.svg?style=for-the-badge) 
+![DOM](https://img.shields.io/badge/DOM-%23F7DF1E.svg?style=for-the-badge) 
+![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white) 
+![API](https://img.shields.io/badge/API-%236DB33F.svg?style=for-the-badge) 
+![TypeScript](https://img.shields.io/badge/TypeScript-%233178C6.svg?style=for-the-badge&logo=typescript&logoColor=white) 
+![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-%2361DAFB.svg?style=for-the-badge&logo=next.js&logoColor=white)
+![Context API](https://img.shields.io/badge/Context%20API-%231a202c.svg?style=for-the-badge)
+![Redux](https://img.shields.io/badge/Redux-%23764ABC.svg?style=for-the-badge&logo=redux&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-%231a202c.svg?style=for-the-badge)
+![Styled-components](https://img.shields.io/badge/Styled--components-%233D3D3D.svg?style=for-the-badge&logo=styled-components&logoColor=white)
+![Ant Design (antd)](https://img.shields.io/badge/Ant%20Design-%230A1D3E.svg?style=for-the-badge&logo=ant-design&logoColor=white)
+![Material-UI](https://img.shields.io/badge/Material--UI-%230081CB.svg?style=for-the-badge&logo=material-ui&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![SCSS](https://img.shields.io/badge/SCSS-%23CC6699.svg?style=for-the-badge)
+![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
+![npm](https://img.shields.io/badge/npm-%23CB3837.svg?style=for-the-badge&logo=npm)
+![Firebase](https://img.shields.io/badge/Firebase-%23FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black)
+![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-%23007ACC.svg?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+
+
+
+### 📧 Contact me:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/giorgi-tskhvedadze/)
+[![Gmail](https://img.shields.io/badge/Gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:giorgicxvedadze4@gmail.com)

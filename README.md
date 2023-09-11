@@ -4,8 +4,9 @@
 
 📖 **Education**: Student at Digital Institute with a focus on front-end React development 
 
-
-
+Udemy courses : "The Complete JavaScript Course 2023: From Zero to Expert" by Jonas Schmedtmann;
+                "Build Responsive Real-World Websites with HTML and CSS" by Jonas Schmedtmann;
+                "The Complete 2023 Web Development Bootcamp" by Dr. Angela Yu
 
 🔨 **Skills**: Proficient in Git and GitHub for version control. Experienced in utilizing NPM packages and Firebase for efficient development processes and collaborative work.
 
@@ -34,7 +35,7 @@ If you're looking for a dedicated and enthusiastic junior front-end developer wi
 ![npm](https://img.shields.io/badge/npm-%23CB3837.svg?style=for-the-badge&logo=npm)
 ![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-%23007ACC.svg?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![mongodb](https://img.shields.io/myget/mongodb/dt/MongoDB.Driver.Core?style=flat&logo=apveyor&logoColor=green&label=mongoDB&labelColor=green&color=white&cacheSeconds=3600&link=%3Cobject%3E)
+
 
 
 

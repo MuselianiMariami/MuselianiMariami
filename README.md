@@ -3,7 +3,7 @@
 ### I'm front-end Web developer with a passion for creating exceptional user experiences. Here's a bit about me:
 
 📖 **Education**: Student at Digital Institute with a focus on front-end React development 
-![image](https://github.com/MuselianiMariami/MuselianiMariami/assets/137683336/1d019466-5233-4f2e-89af-033b217a788a)
+
 
 
 
@@ -27,19 +27,17 @@ If you're looking for a dedicated and enthusiastic junior front-end developer wi
 ![TypeScript](https://img.shields.io/badge/TypeScript-%233178C6.svg?style=for-the-badge&logo=typescript&logoColor=white) 
 ![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-%2361DAFB.svg?style=for-the-badge&logo=next.js&logoColor=white)
-![Context API](https://img.shields.io/badge/Context%20API-%231a202c.svg?style=for-the-badge)
-![Redux](https://img.shields.io/badge/Redux-%23764ABC.svg?style=for-the-badge&logo=redux&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-%231a202c.svg?style=for-the-badge)
-![Styled-components](https://img.shields.io/badge/Styled--components-%233D3D3D.svg?style=for-the-badge&logo=styled-components&logoColor=white)
-![Ant Design (antd)](https://img.shields.io/badge/Ant%20Design-%230A1D3E.svg?style=for-the-badge&logo=ant-design&logoColor=white)
-![Material-UI](https://img.shields.io/badge/Material--UI-%230081CB.svg?style=for-the-badge&logo=material-ui&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![SCSS](https://img.shields.io/badge/SCSS-%23CC6699.svg?style=for-the-badge)
 ![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
 ![npm](https://img.shields.io/badge/npm-%23CB3837.svg?style=for-the-badge&logo=npm)
-![Firebase](https://img.shields.io/badge/Firebase-%23FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black)
 ![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-%23007ACC.svg?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![mongodb](https://img.shields.io/myget/mongodb/dt/MongoDB.Driver.Core?style=flat&logo=apveyor&logoColor=green&label=mongoDB&labelColor=green&color=white&cacheSeconds=3600&link=%3Cobject%3E)
+
+
+
 
 
 

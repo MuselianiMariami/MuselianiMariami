@@ -7,7 +7,8 @@
 🎯**Udemy courses**: <br/>
 "The Complete JavaScript Course 2023: From Zero to Expert" by Jonas Schmedtmann; <br/>
 "Build Responsive Real-World Websites with HTML and CSS" by Jonas Schmedtmann; <br/>
-"The Complete 2023 Web Development Bootcamp" by Dr. Angela Yu
+"The Complete 2023 Web Development Bootcamp" by Dr. Angela Yu; <br/>
+"React - The Complete Guide 2023 (incl. React Router & Redux)" by Maximilian Schwarzmüller
 
 🔥 **Passion**: always excited to tackle new challenges, ensure the delivery of high-quality projects on time, and keep up-to-date with the latest industry trends.
 

@@ -12,8 +12,6 @@
 
 🔥 **Passion**: always excited to tackle new challenges, ensure the delivery of high-quality projects on time, and keep up-to-date with the latest industry trends.
 
-🚀 **Goal**: To become FullStack MERN Developer.
-
 If you're in search of an eager and passionate junior front-end developer, particularly skilled in React and adept at crafting captivating user interfaces, I'm excited to explore potential opportunities with you!
 
 ### 💻 Tech Stack:

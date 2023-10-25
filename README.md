@@ -5,10 +5,12 @@
 📚**Education**: Student at Digital Institute with a focus on front-end React development 
 
 🎯**Udemy courses**: <br/>
+"CS50's Web Programming with Python and JavaScript" by Harvard University; <br/>
 "The Complete JavaScript Course 2023: From Zero to Expert" by Jonas Schmedtmann; <br/>
+"React - The Complete Guide 2023 (incl. React Router & Redux)" by Maximilian Schwarzmüller; <br/>
 "Build Responsive Real-World Websites with HTML and CSS" by Jonas Schmedtmann; <br/>
-"The Complete 2023 Web Development Bootcamp" by Dr. Angela Yu; <br/>
-"React - The Complete Guide 2023 (incl. React Router & Redux)" by Maximilian Schwarzmüller.
+"The Complete 2023 Web Development Bootcamp" by Dr. Angela Yu.
+
 
 🔥 **Passion**: always excited to tackle new challenges, ensure the delivery of high-quality projects on time, and keep up-to-date with the latest industry trends.
 

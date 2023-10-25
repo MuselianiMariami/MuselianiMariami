@@ -2,10 +2,10 @@
 
 ### I'm front-end Web developer, devoted to creating exceptional user experiences by employing well-organized and effective code.
 
-📚**Education**: Student at Digital Institute with a focus on front-end React development 
+📚**Education**: Student at Digital Institute with a focus on front-end React development;
+                 CS50's Web Programming course with Python and JavaScript by Harvard University; 
 
 🎯**Udemy courses**: <br/>
-"CS50's Web Programming with Python and JavaScript" by Harvard University; <br/>
 "The Complete JavaScript Course 2023: From Zero to Expert" by Jonas Schmedtmann; <br/>
 "React - The Complete Guide 2023 (incl. React Router & Redux)" by Maximilian Schwarzmüller; <br/>
 "Build Responsive Real-World Websites with HTML and CSS" by Jonas Schmedtmann; <br/>

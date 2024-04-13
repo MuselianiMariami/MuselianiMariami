@@ -18,7 +18,8 @@ If you're in search of an eager and passionate junior front-end developer, parti
 
 ### 💻 Tech Stack:
 
-![js](https://github.com/MuselianiMariami/MuselianiMariami/assets/137683336/944500e0-e49e-4e96-bed3-999b7329023c)
+<img src="https://github.com/MuselianiMariami/MuselianiMariami/assets/137683336/944500e0-e49e-4e96-bed3-999b7329023c)"> 
+<img src=""> 
 
 
 

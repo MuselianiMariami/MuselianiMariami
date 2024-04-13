@@ -17,6 +17,12 @@
 If you're in search of an eager and passionate junior front-end developer, particularly skilled in React and adept at crafting captivating user interfaces, I'm excited to explore potential opportunities with you!
 
 ### 💻 Tech Stack:
+
+![js](https://github.com/MuselianiMariami/MuselianiMariami/assets/137683336/944500e0-e49e-4e96-bed3-999b7329023c)
+
+
+
+
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black) 
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)

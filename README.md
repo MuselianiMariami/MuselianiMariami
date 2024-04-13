@@ -35,6 +35,7 @@ If you're in search of an eager and passionate junior front-end developer, parti
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 <img src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white">
 <img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white">
+<br/>
 <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white"> 
 ![OOP](https://img.shields.io/badge/OOP-%23415F9D.svg?style=for-the-badge) 
 ![Functional Programming](https://img.shields.io/badge/Functional%20Programming-%2351B7F0.svg?style=for-the-badge) 

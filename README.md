@@ -16,7 +16,7 @@ CS50's Web Programming course with Python and JavaScript by Harvard University;
 
 🔥 **Passion**: always excited to tackle new challenges, ensure the delivery of high-quality projects on time, and keep up-to-date with the latest industry trends.
 
-If you're in search of an eager and passionate junior front-end developer, particularly skilled in React and adept at crafting captivating user interfaces, I'm excited to explore potential opportunities with you!
+If you're in search of an eager and passionate junior software developer, I'm excited to explore potential opportunities with you!
 
 ### 💻 Tech Stack:
 <div align="center">

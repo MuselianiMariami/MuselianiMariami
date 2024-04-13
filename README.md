@@ -45,6 +45,7 @@ If you're in search of an eager and passionate junior software developer, I'm ex
 <img src="https://img.shields.io/badge/Powershell-2CA5E0?style=for-the-badge&logo=powershell&logoColor=white">
 <img src="https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white">
 <img src="https://img.shields.io/badge/npm-%23CB3837.svg?style=for-the-badge&logo=npm">
+<br/>
 <img src="https://img.shields.io/badge/Visual%20Studio%20Code-%23007ACC.svg?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
 <img src="https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white">
 <br/>

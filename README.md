@@ -18,13 +18,12 @@ If you're in search of an eager and passionate junior front-end developer, parti
 
 ### 💻 Tech Stack:
 
-<img src="https://github.com/MuselianiMariami/MuselianiMariami/assets/137683336/944500e0-e49e-4e96-bed3-999b7329023c)"> 
-<img src=""> 
 
 
 
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black) 
+<img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white"> 
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![OOP](https://img.shields.io/badge/OOP-%23415F9D.svg?style=for-the-badge) 

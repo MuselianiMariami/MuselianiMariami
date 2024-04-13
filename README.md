@@ -3,7 +3,7 @@
 ### I'm front-end Web developer, devoted to creating exceptional user experiences by employing well-organized and effective code.
 
 📚**Education**: Digital Institute - Front-End Web Development with React.JS; <br/>
-                                     iOS Development;
+                 Digital Institute  iOS Development; <br/>
                  CS50's Web Programming course with Python and JavaScript by Harvard University; 
 
 🎯**Udemy courses**: <br/>

@@ -1,6 +1,6 @@
 <h1 align="center">Hello World, I'm Mariam Museliani 👋</h1>
 
-### I'm front-end Web developer, devoted to creating exceptional user experiences by employing well-organized and effective code.
+### I'm a Software Developer, passionate about crafting amazing user experiences through clean and powerful code.
 
 📚**Education**: <br/>
 Digital Institute - Front-End Web Development with React.JS; <br/>

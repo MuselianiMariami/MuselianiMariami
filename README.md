@@ -40,6 +40,7 @@ If you're in search of an eager and passionate junior software developer, I'm ex
 <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white"> 
 <img src="https://img.shields.io/badge/OOP-%23415F9D.svg?style=for-the-badge">
 <img src="https://img.shields.io/badge/Functional%20Programming-%2351B7F0.svg?style=for-the-badge">
+<br/>
 <img src="https://img.shields.io/badge/windows%20terminal-4D4D4D?style=for-the-badge&logo=windows%20terminal&logoColor=white">
 <img src="https://img.shields.io/badge/Powershell-2CA5E0?style=for-the-badge&logo=powershell&logoColor=white">
 <img src="https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white">
